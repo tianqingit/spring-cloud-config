@@ -1,2 +1,6 @@
 kandy: 
   name: liudehua
+person:
+  name: kandy
+  age: 30
+  address: pudong
