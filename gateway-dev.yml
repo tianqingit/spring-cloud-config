@@ -1,8 +1,8 @@
 zuul:
   routes:
     baidu:
-      path: /baidu
-      url: http://www.baidu.com
+      path: /bd
+      url: https://www.baidu.com
     user:
       path: /163
       serviceId: http://www.163.com
