@@ -1,8 +1,11 @@
 zuul:
   routes:
     baidu:
-      path: /bd
+      path: /baidu
       url: https://www.baidu.com
     user:
-      path: /333
+      path: /163
       serviceId: http://www.163.com
+    mayun:
+      path: /mayun
+      serviceId: https://gitee.com/
