@@ -15,3 +15,6 @@ zuul:
     serverA:
       path: /serverA/**
       serviceId: serverA
+    server-producer:
+      path: /server-producer/**
+      serviceId: server-producer
